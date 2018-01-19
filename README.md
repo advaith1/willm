@@ -4,6 +4,7 @@
 This is my website where I store things! Check out some of my projects below!
 - `ROWurBUX` - Check it out [here](http://rowurbux.weebly.com)
 - `This site!`
+- `YouTube Channel` - Check it out [here](http://youtube.com/WillHasAwesomeShoes)
 
 ### Discord Server
 Check out my Discord server for some fun which can be found at [discord.me/whas](https://discord.me/whas)!
@@ -12,6 +13,9 @@ Check out my Discord server for some fun which can be found at [discord.me/whas]
 
 Big shoutout to [Advaith](https://github.com/advaith1) for helping me with this site! 
 
-###  Support or Contact
+### Contact
 
 Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
+
+### More Info
+- Go to [Site Pages](pages) to navigate through the site
