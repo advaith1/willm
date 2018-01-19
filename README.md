@@ -15,6 +15,3 @@ Big shoutout to [Advaith](https://github.com/advaith1) for helping me with this 
 ###  Support or Contact
 
 Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
-
-
-**[Click here for more information](info)!**
