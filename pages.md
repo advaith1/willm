@@ -5,6 +5,3 @@
   <a href="#"></a>
   <br><br>
 </h2>
-<footer class="site-footer">
-<span class="site-footer-owner"><a href="</a> <a href="https://github.com/whasonyt"></a></span>
-</footer>
