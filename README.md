@@ -5,7 +5,7 @@ This is my website where I store things! Check out some of my projects below!
 - `This site!`
 
 ### Discord Sever
-Check out my Discord server for some fun which can be found out [discord.me/whas](https://discord.me/whas)!
+Check out my Discord server for some fun which can be found at [discord.me/whas](https://discord.me/whas)!
 
 ### Main Authours
 
