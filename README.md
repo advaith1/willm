@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Will's inventory!
 
-You can use the [editor on GitHub](https://github.com/whasonyt/willm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my website where I store things! Check out some of my projects below! hi advaith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
