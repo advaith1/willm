@@ -20,3 +20,5 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 ### More Info
 - Go to [Site Pages](pages) to navigate through the site
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory) *(share with friends to link them here)*
+
+![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
