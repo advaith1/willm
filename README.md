@@ -4,7 +4,7 @@
 This is my website where I store things! Check out some of my projects below!
 - `ROWurBUX` - Check it out [here](http://rowurbux.weebly.com)
 - `This site!`
-- `YouTube Channel` - Check it out [here](http://youtube.com/WillHasAwesomeShoes)
+- `YouTube Channel` - Check it out [here](https://www.youtube.com/embed/fVaeDvmnqBM)
 
 ### Discord Server
 Check out my Discord server for some fun which can be found at [discord.me/whas](https://discord.me/whas)!
