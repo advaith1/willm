@@ -21,6 +21,6 @@ Follow me on Twitter to get:
 Follow me on Instagram to get:
 1) upcoming YT video previews
 2) funny selfies
-3) cool photos (by me haha)
+3) cool photos
 
 **And if you can't seem to follow any of the above, just remember that you're still apart of the community!**
