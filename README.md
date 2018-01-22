@@ -19,7 +19,7 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 
 ### More Info
 - Go to [Site Pages](pages) to navigate through the site
-- Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory) *(share with friends to link them here)*
+- Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
 <p align="center">
   <img src="http://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-W-icon.png">
