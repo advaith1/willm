@@ -6,7 +6,7 @@ Will's Inventory (willm.ga) is a site to store my projects, art, and more! :) I 
 
 Anyways, Will's Inventory started development on Jan 18, 2018 - *on going*! Let me and Advaith know your site feedback at `feedback@willm.ga`
 
-Redirects | Other Websites I Own
-:---:|:---:|
-dawae.ga | memebb.gq |
+Redirects |
+:---:|
+dawae.ga |
 willsinventory.ga |
