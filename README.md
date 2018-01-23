@@ -24,7 +24,3 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 <p align="center">
   <img src="http://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-W-icon.png">
 </p> 
-
-### Code
-Here's a preview of the home screen's code for fun! 
-[Code](https://i.imgur.com/biv9VHz.png)
