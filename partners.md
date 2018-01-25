@@ -21,10 +21,9 @@ Fill out the form at [https://goo.gl/XJMZw3](http://www.123formbuilder.com/form-
 **Partner Benefits**
 - Custom Page for FREE
 
-<a name="benefits"></a> 
 *Normal Users:*
 <p>I accept the following currencies:</p>
 - Amazon/Google Play gift cards
 - PayPal/Bitcoin 
-
 Email [`pages@willm.ga`](mailto:pages@willm.ga) for more information.
+<a name="benefits"></a> 
