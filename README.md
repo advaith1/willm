@@ -1,37 +1,26 @@
-## Welcome to Will's inventory!
 
-This is my website where I store things! Check out some of my projects below! hi advaith
+## Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my website where I store things! Check out some of my projects below!
+- `ROWurBUX` - Check it out [here](http://rowurbux.weebly.com)
+- `This site!`
+- `YouTube Channel` - Check it out [here](https://www.youtube.com/embed/fVaeDvmnqBM)
 
-### Markdown
+### Discord Server
+Check out my Discord server for some fun which can be found at [discord.me/whas](https://discord.me/whas)!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Main Authors
 
-```markdown
-Syntax highlighted code block
+Big shoutout to [Advaith](https://github.com/advaith1) for helping me with this site! 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
+Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whasonyt/willm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### More Info
+- Go to [Site Pages](pages) to navigate through the site
+- Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
+- Apply for partner at [Partner Page](partners)
+<p align="center">
+  <img src="https://i.dis.gg/nacpnhj.png">
+</p> 
